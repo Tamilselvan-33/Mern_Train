@@ -23,16 +23,6 @@ else {
 //     }
 // }
 
-// function student(name){
-//     console.log("saran marries" , name);
-// }
-
-// student("nishanth");
-// student("zharif");
-// student("Santharam");
-
-// console.log("saran is gay , Hence proved");
-
 
 function employee(name , company , clg = "SECE"){
     console.log("Name of the employee " , name , " , Company name : " , company , " , Studies in : " , clg);
